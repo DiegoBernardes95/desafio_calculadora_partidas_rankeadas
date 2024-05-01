@@ -1,1 +1,1 @@
-# desafio_calculadora_partidas_rankeadas
+# Calculadora de Partidas Rankeadas
